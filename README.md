@@ -20,5 +20,5 @@ Using the obsidian command palette, you can use the pre-defined problem template
 Depending on your preference, you can tag your problems with difficulty, data structure / algorithm, etc, so that you can easily sort and retrain specific groups of problems.
 
 #### Insights
-If you learn anything profound to your understanding, you should jot it down in the designated `/insight` folder.
+If you learn anything profound to your understanding, you should jot it down in the designated `/insights` folder.
 

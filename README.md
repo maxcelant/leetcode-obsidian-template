@@ -11,7 +11,7 @@ This template allows you to take a defined approach to each problem. It focuses 
 This obsidian template also gives you a couple of nice-to-haves.
 
 #### Spaced Repetition
-The best way to retain your knowledge and learn from your mistakes is to continuously retrain your brain with spaced repetition. This can be easily achieved with the help of my `obsidian-recall` plugin which will put the problems you haven't performed in `X` days into adesignated folder of your naming.
+The best way to retain your knowledge and learn from your mistakes is to continuously retrain your brain with spaced repetition. This can be easily achieved with the help of my [obsidian-recall](https://github.com/maxcelant/obsidian-recall) plugin which will put the problems you haven't performed in `X` days into adesignated folder of your naming.
 
 #### Problem Template
 Using the obsidian command palette, you can use the pre-defined problem template by doing `CMD + d` (on Mac) and then `Templates: Insert template` -> `Problem Template`.

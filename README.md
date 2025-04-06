@@ -2,6 +2,9 @@
 
 This is meant to help those who are struggling with organizing their leetcode journey, and want a structured approach with spaced repetition built in.
 
+>![image](https://github.com/user-attachments/assets/78fe462c-86f9-4991-b0ce-490b69320d7e)
+
+
 This template allows you to take a defined approach to each problem. It focuses on three main **fundamentals**:
 
 1. "How can I make the insight to lead to discovering the solution?"

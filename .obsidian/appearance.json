@@ -1,0 +1,12 @@
+{
+  "accentColor": "#dd7631",
+  "cssTheme": "Primary",
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
+  "monospaceFontFamily": "",
+  "enabledCssSnippets": [
+    "spacing",
+    "width",
+    "center-align"
+  ]
+}
